@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/DWM/ETLTool/src/Main/Login.java</file>
+        <file>file:/C:/DWM/ETLTool/src/Main/ExtractionGUI.java</file>
+        <file>file:/C:/DWM/ETLTool/src/Main/clearTransform.java</file>
+        <file>file:/C:/DWM/ETLTool/src/Main/MainGUI.java</file>
+        <file>file:/C:/DWM/ETLTool/src/Main/TransformationGUI.java</file>
+        <file>file:/C:/DWM/ETLTool/src/Mining/KNN.java</file>
+        <file>file:/C:/DWM/ETLTool/src/Main/MiningGUI.java</file>
+        <file>file:/C:/DWM/ETLTool/src/Mining/Hierarchical.java</file>
+        <file>file:/C:/DWM/ETLTool/src/Mining/KMeans.java</file>
+        <file>file:/C:/DWM/ETLTool/src/Mining/NaiveBayesGUI.java</file>
+        <file>file:/C:/DWM/ETLTool/src/Mining/KNNGUI.java</file>
+        <file>file:/C:/DWM/ETLTool/src/Mining/NaiveBayes.java</file>
+    </open-files>
+</project-private>
